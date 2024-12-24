@@ -66,6 +66,7 @@ Hi, i am dev
 - Hi, I'm [Monu](https://github.com/fsagrahari23)a and it's my firstcontribution
 - Hey! I'm Ritesh Kumar
 - Hey! I'm Nilanshu Ranjan (https://github.com/NilanshuRanjan)
+ - Hi! I'm nuix :3 (https://github.com/nuixyz)
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
 - Hello, this is a very useful contribution
 - Hello, this is [bbyoda](https://github.com/tridungng).
